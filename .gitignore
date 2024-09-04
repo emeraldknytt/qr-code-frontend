@@ -15,5 +15,3 @@
 .DS_Store
 .prettierignore
 
-# Avoid pushing README markdown as I am yet to update it.
-*.md
