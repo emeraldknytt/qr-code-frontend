@@ -1,0 +1,69 @@
+body {
+  /* width: 1440px; */
+  height: 960px;
+  background-color: #D5E1EF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+img{
+  width: 18rem;
+  height: 18rem;
+  border-radius: 10px;
+}
+
+h2 {
+  color:#1F314F;
+  text-align: center;
+  font-feature-settings: 'liga' off, 'clig' off;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0;
+  margin-top: 1.5rem;
+  /* line-height: 120%; 1.65rem */
+}
+
+p {
+  color:#68778D;
+  text-align: center;
+  font-feature-settings: 'liga' off, 'clig' off;
+  font-size: 0.9375rem;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: 140%; 1.3125rem */
+  letter-spacing: 0.0125rem;
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.qr-card {
+  background-color: white;
+  width: 18rem;
+  height: 27.6875rem;
+  font-family: outfit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  padding: 1rem 1rem 2.5rem;
+  margin-bottom: 5rem;
+}
+
+.text-area {
+  width: 16rem;
+  height: auto;
+  padding: 0 1rem;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
