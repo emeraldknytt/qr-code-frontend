@@ -14,7 +14,7 @@ img{
   border-radius: 10px;
 }
 
-h2 {
+h1 {
   color:#1F314F;
   text-align: center;
   font-feature-settings: 'liga' off, 'clig' off;
@@ -57,7 +57,7 @@ p {
   height: auto;
   padding: 0 1rem;
 }
-/* 
+
 .attribution { 
   font-size: 11px; 
   text-align: center; 
@@ -65,5 +65,5 @@ p {
 
 .attribution a { 
   color: hsl(228, 45%, 44%); 
-} */
+}
 
